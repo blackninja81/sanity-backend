@@ -18,9 +18,9 @@ export default {
         type:'string'
     },
     {
-        name: 'category',
-        title: 'Category',
-        type: 'string',
+        name: 'plartform',
+        title: 'Plartform',
+        type:'string'
     },
     {
         name: 'slug',
